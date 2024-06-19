@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324745635810",
+    "project_id": "hyred-d4189",
+    "storage_bucket": "hyred-d4189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324745635810:android:b061a2e446a955f046fbbb",
+        "android_client_info": {
+          "package_name": "com.example.hyred"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7FYGXiTBfIh_4Tnzikn2jmYUh2jk7Qag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
